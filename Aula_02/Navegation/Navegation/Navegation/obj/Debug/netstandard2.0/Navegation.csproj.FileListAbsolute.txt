@@ -1,0 +1,13 @@
+C:\Users\logonrm\Desktop\Aula_02\Navegation\Navegation\Navegation\bin\Debug\netstandard2.0\Navegation.deps.json
+C:\Users\logonrm\Desktop\Aula_02\Navegation\Navegation\Navegation\bin\Debug\netstandard2.0\Navegation.dll
+C:\Users\logonrm\Desktop\Aula_02\Navegation\Navegation\Navegation\bin\Debug\netstandard2.0\Navegation.pdb
+C:\Users\logonrm\Desktop\Aula_02\Navegation\Navegation\Navegation\obj\Debug\netstandard2.0\Navegation.csproj.CoreCompileInputs.cache
+C:\Users\logonrm\Desktop\Aula_02\Navegation\Navegation\Navegation\obj\Debug\netstandard2.0\Navegation.App.xaml.g.cs
+C:\Users\logonrm\Desktop\Aula_02\Navegation\Navegation\Navegation\obj\Debug\netstandard2.0\Navegation.LoginPage.xaml.g.cs
+C:\Users\logonrm\Desktop\Aula_02\Navegation\Navegation\Navegation\obj\Debug\netstandard2.0\Navegation.Perfil.xaml.g.cs
+C:\Users\logonrm\Desktop\Aula_02\Navegation\Navegation\Navegation\obj\Debug\netstandard2.0\Navegation.Saldo.xaml.g.cs
+C:\Users\logonrm\Desktop\Aula_02\Navegation\Navegation\Navegation\obj\Debug\netstandard2.0\Navegation.AssemblyInfoInputs.cache
+C:\Users\logonrm\Desktop\Aula_02\Navegation\Navegation\Navegation\obj\Debug\netstandard2.0\Navegation.AssemblyInfo.cs
+C:\Users\logonrm\Desktop\Aula_02\Navegation\Navegation\Navegation\obj\Debug\netstandard2.0\Navegation.dll
+C:\Users\logonrm\Desktop\Aula_02\Navegation\Navegation\Navegation\obj\Debug\netstandard2.0\Navegation.pdb
+C:\Users\logonrm\Desktop\Aula_02\Navegation\Navegation\Navegation\obj\Debug\netstandard2.0\Navegation.Menu.xaml.g.cs
