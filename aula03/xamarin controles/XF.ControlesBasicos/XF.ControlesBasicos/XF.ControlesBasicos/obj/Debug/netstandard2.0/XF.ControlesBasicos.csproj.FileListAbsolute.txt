@@ -1,0 +1,11 @@
+D:\WorkSpace\CodeComplete\XF.ControlesBasicos\XF.ControlesBasicos\XF.ControlesBasicos\bin\Debug\netstandard2.0\XF.ControlesBasicos.deps.json
+D:\WorkSpace\CodeComplete\XF.ControlesBasicos\XF.ControlesBasicos\XF.ControlesBasicos\bin\Debug\netstandard2.0\XF.ControlesBasicos.dll
+D:\WorkSpace\CodeComplete\XF.ControlesBasicos\XF.ControlesBasicos\XF.ControlesBasicos\bin\Debug\netstandard2.0\XF.ControlesBasicos.pdb
+D:\WorkSpace\CodeComplete\XF.ControlesBasicos\XF.ControlesBasicos\XF.ControlesBasicos\obj\Debug\netstandard2.0\XF.ControlesBasicos.csproj.CoreCompileInputs.cache
+D:\WorkSpace\CodeComplete\XF.ControlesBasicos\XF.ControlesBasicos\XF.ControlesBasicos\obj\Debug\netstandard2.0\XF.ControlesBasicos.App.xaml.g.cs
+D:\WorkSpace\CodeComplete\XF.ControlesBasicos\XF.ControlesBasicos\XF.ControlesBasicos\obj\Debug\netstandard2.0\XF.ControlesBasicos.ConfigPage.xaml.g.cs
+D:\WorkSpace\CodeComplete\XF.ControlesBasicos\XF.ControlesBasicos\XF.ControlesBasicos\obj\Debug\netstandard2.0\XF.ControlesBasicos.MainPage.xaml.g.cs
+D:\WorkSpace\CodeComplete\XF.ControlesBasicos\XF.ControlesBasicos\XF.ControlesBasicos\obj\Debug\netstandard2.0\XF.ControlesBasicos.AssemblyInfoInputs.cache
+D:\WorkSpace\CodeComplete\XF.ControlesBasicos\XF.ControlesBasicos\XF.ControlesBasicos\obj\Debug\netstandard2.0\XF.ControlesBasicos.AssemblyInfo.cs
+D:\WorkSpace\CodeComplete\XF.ControlesBasicos\XF.ControlesBasicos\XF.ControlesBasicos\obj\Debug\netstandard2.0\XF.ControlesBasicos.dll
+D:\WorkSpace\CodeComplete\XF.ControlesBasicos\XF.ControlesBasicos\XF.ControlesBasicos\obj\Debug\netstandard2.0\XF.ControlesBasicos.pdb
